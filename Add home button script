@@ -24,7 +24,7 @@ getgenv().Config = {
 
         ["ESP Player"] = true,
 
-        ["Max Attack Time"] = 100
+        ["Max Attack Time"] = 60
 
     },
 
@@ -86,9 +86,9 @@ getgenv().Config = {
 
         ["text_font"] = Enum.Font.Gotham,
 
-        ["title_size"] = 40,
+        ["title_size"] = 35,
 
-        ["text_size"] = 24
+        ["text_size"] = 20
 
         }
 
@@ -100,7 +100,7 @@ getgenv().Config = {
 
         ["White Screen"] = false,
 
-        ["Fast Delay"] = 0.5,
+        ["Fast Delay"] = 0.0,
 
         ["Tween Speed"] = 350,
 
@@ -130,9 +130,9 @@ getgenv().Config = {
 
             ["Avoid Fruit"] = {
 
-                "Portal-Portal",
+                "Pain-Pain",
 
-                "Kitsune-Kitsune"
+                "Dragon-Dragon"
 
             }
 
